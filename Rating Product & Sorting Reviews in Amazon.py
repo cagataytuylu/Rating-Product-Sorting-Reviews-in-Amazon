@@ -6,8 +6,7 @@
 
 
 ####################################
-# Görev 1: Average Rating’i güncel yorumlara göre
-# hesaplayınız ve var olan average rating ile kıyaslayınız.
+
 ####################################
 
 import pandas as pd
@@ -84,8 +83,7 @@ df["time_based_weighted_avarage_score"] = time_based_weighted_average(df, days="
 
 
 ####################################
-# Görev 2: Ürün için ürün detay sayfasında
-# görüntülenecek 20 review’i belirleyiniz.
+
 ####################################
 
 
